@@ -1,12 +1,12 @@
  一 安卓工具
 Ddms
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/ddms.png)
+  ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/ddms.png)
 
 Hierarchyviewer
-![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/hi.png)
+![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/hi.png)
 
 Uiautomatorviewer
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/ui.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/ui.png)
 
 MonkeyRunner
 
@@ -20,20 +20,20 @@ adb logcat | grep ActivityManager 打印日志，筛选出含ActivityManager的�
 adb shell dumpsys meminfo 
 adb push 
 adb pull 
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/devices.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbin.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/packages.jpg)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbunin.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbp.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbshell.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/logcat.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/dir.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/rm.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/ls.png)
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/dump.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/devices.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbin.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/packages.jpg)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbunin.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbp.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/adbshell.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/logcat.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/dir.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/rm.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/ls.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/dump.png)
  
  三 Monkey三种不同策略的的脚本 ，并阐述策略
- ![Image text](http://github.com/cherry1116/mobiletest8/week2/src/common/images/monkey1.png)
+ ![github](http://github.com/cherry1116/mobiletest8/week2/src/common/images/monkey1.png)
 
  四 安装 ideviceinstaller 下载一个任意open source的xcode project ,在simulator上面运行
      
