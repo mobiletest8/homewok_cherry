@@ -20,16 +20,27 @@ adb logcat | grep ActivityManager 打印日志，筛选出含ActivityManager的�
 adb shell dumpsys meminfo 
 adb push 
 adb pull 
+
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/devices.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/adbin.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/packages.jpg)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/adbunin.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/adbp.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/adbshell.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/logcat.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/dir.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/rm.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/ls.png)
+ <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/dump.png)
  
  三 Monkey三种不同策略的的脚本 ，并阐述策略
