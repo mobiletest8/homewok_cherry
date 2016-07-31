@@ -1,6 +1,6 @@
  一 安卓工具
 Ddms
-  ![](https://github.com/rawcherry1116/mobiletest8/week2/raw/master/src/common/images/ddms.png)
+  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/ddms.png)
 
 Hierarchyviewer
 ![image](https://github.com/mobiletest8/week2/tree/master/src/common/images/hi.png)
