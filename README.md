@@ -30,14 +30,14 @@ android-sdk\tools\monkeyrunner.bat
 二 adb命令
 adb(android debug bridge android)提供的一个通用调试工具，借助这个工具，我们可以更好地调试开发的程序。
 <br>
-adb devices //查看连接设备
-adb install ***.apk //安装apk
-adb shell pm list packages //列出所有包名
-adb uninstall 包名 //卸载apk
-adb logcat | grep ActivityManager 打印日志，筛选出含ActivityManager的信息
-adb shell dumpsys meminfo 
-adb push 
-adb pull 
+adb devices //查看连接设备<br>
+adb install ***.apk //安装apk<br>
+adb shell pm list packages //列出所有包名<br>
+adb uninstall 包名 //卸载apk<br>
+adb logcat | grep ActivityManager 打印日志，筛选出含ActivityManager的信息<br>
+adb shell dumpsys meminfo <br>
+adb push <br>
+adb pull <br>
 
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/devices.png)
  <br>
@@ -61,8 +61,9 @@ adb pull
  <br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/dump.png)
  
- 三 Monkey三种不同策略的的脚本 ，并阐述策略
+ 三 Monkey三种不同策略的的脚本 ，并阐述策略<br>
  ![](https://github.com/mobiletest8/week2/blob/master/src/common/images/monkey1.png)
+<br>
 
  四 安装 ideviceinstaller 下载一个任意open source的xcode project ,在simulator上面运行
      
