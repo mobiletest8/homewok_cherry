@@ -1,12 +1,12 @@
 mobliletest8.homework.week3
 <br>
-×÷Òµ1:CharlesÏŞËÙµÄÉèÖÃ£¬´úÀí¹ÒÉÏ£¬ÏŞËÙÉèÖÃºÃ£¬È»ºóÊ¹ÓÃapp£¬²é¿´ÊÇ·ñÏŞËÙ³É¹¦¡£AndroidºÍiOS¶¼ÒªÊ¹ÓÃ£¬°üÀ¨´ÓiOS¿ª·¢ÕßÄ£Ê½ÏÂ»ñÈ¡ÏŞËÙÏêÏ¸Êı¾İ  Android¡¢iOS
+ä½œä¸š1:Charlesé™é€Ÿçš„è®¾ç½®ï¼Œä»£ç†æŒ‚ä¸Šï¼Œé™é€Ÿè®¾ç½®å¥½ï¼Œç„¶åä½¿ç”¨appï¼ŒæŸ¥çœ‹æ˜¯å¦é™é€ŸæˆåŠŸã€‚Androidå’ŒiOSéƒ½è¦ä½¿ç”¨ï¼ŒåŒ…æ‹¬ä»iOSå¼€å‘è€…æ¨¡å¼ä¸‹è·å–é™é€Ÿè¯¦ç»†æ•°æ®  Androidã€iOS
 <br>
 
-×÷Òµ2:Ê¹ÓÃaapt²é¿´Android apk°üÈ¨ÏŞ²¢½ØÍ¼ ? aapt dump permissions basecamp3.apk
+ä½œä¸š2:ä½¿ç”¨aaptæŸ¥çœ‹Android apkåŒ…æƒé™å¹¶æˆªå›¾ 
 <br>
 
-×÷Òµ3:Ê¹ÓÃApkToolºÍjar2dex¹¤¾ßÀ´·´±àÒëÒ»¸öapk£¬´ò¿ª·´±àÒëÖ®ºóµÄdex²¢½ØÍ¼
+ä½œä¸š3:ä½¿ç”¨ApkToolå’Œjar2dexå·¥å…·æ¥åç¼–è¯‘ä¸€ä¸ªapkï¼Œæ‰“å¼€åç¼–è¯‘ä¹‹åçš„dexå¹¶æˆªå›¾
 <br>
 
 
@@ -17,19 +17,19 @@ chrles -throtting settings
 <br>
 
 aapt
-![](https://github.com/mobiletest8/homewok_cherry/blob/master/week2/src/common/images/aapt.png)
+![](https://github.com/mobiletest8/homewok_cherry/blob/master/week3/src/common/images/aapt.png)
 <br>
 
 apktool
 <br>
-![](https://github.com/mobiletest8/homewok_cherry/blob/master/week2/src/common/images/apktool.png)
+![](https://github.com/mobiletest8/homewok_cherry/blob/master/week3/src/common/images/apktool.png)
 <br>
 
-·´±àÒë
+åç¼–è¯‘
 <br>
-![](https://github.com/mobiletest8/homewok_cherry/blob/master/week2/src/common/images/dex.png)
+![](https://github.com/mobiletest8/homewok_cherry/blob/master/week3/src/common/images/dex.png)
 <br>
 
-gui¿ÉÊÓ»¯¹¤¾ß²é¿´·´±àÒëÎÄ¼ş
+guiå¯è§†åŒ–å·¥å…·æŸ¥çœ‹åç¼–è¯‘æ–‡ä»¶
 <br>
-![](https://github.com/mobiletest8/homewok_cherry/blob/master/week2/src/common/images/gui.png)
+![](https://github.com/mobiletest8/homewok_cherry/blob/master/week3/src/common/images/gui.png)
