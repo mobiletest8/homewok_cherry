@@ -6,7 +6,7 @@ Ddms<br>
 2）在eclipse调试程序中启动ddms,在eclipse如下：
 Window-Perspective-Open Perspective-Other-DDMS
 <br>
-![](https://github.com/mobiletest8/week2/blob/master/src/common/images/ddms.png)
+![](https://github.com/mobiletest8/homewok_cherry/blob/master/week2/src/common/images/ddms.png)
 
 Hierarchyviewer<br>
 hierarchy viewer 是随android发布的工具，是android自带的非常有用而且使用简单的工具，可以帮助我们更好地检视和设计用户界面
